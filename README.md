@@ -6,3 +6,5 @@ And learnt to add file first and then commit
 changes made
 <br>
 hiii
+<br>
+git pull and push should be done 
